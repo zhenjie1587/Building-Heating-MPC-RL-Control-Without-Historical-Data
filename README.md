@@ -1,6 +1,6 @@
 # Online Hierarchical MPC–RL Control for Building Heating without Historical Operating Data
 
-This repository provides the source code, evaluation scripts, configuration files, and simulation results for the article:
+This repository provides the source code, evaluation scripts and configuration files:
 
 **Online Hierarchical MPC–RL Control for Building Heating without Historical Operating Data**, accepted for publication in *Energy*.
 
