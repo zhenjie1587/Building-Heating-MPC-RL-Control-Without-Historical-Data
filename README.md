@@ -27,7 +27,6 @@ The experiments are conducted on the `bestest_hydronic_heat_pump` test case from
 ├── algorithmsDDPGT/
 ├── teacher/
 ├── testing/
-├── results/
 ├── requirements.txt
 ├── environment.yml
 ├── LICENSE
